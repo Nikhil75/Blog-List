@@ -1,0 +1,7 @@
+.user-info-list {
+  display: flex;
+  justify-content: space-between;
+}
+.date {
+  align-self: flex-end;
+}
